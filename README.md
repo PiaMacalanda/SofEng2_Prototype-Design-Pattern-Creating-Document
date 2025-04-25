@@ -1,9 +1,9 @@
 # Document Prototype Design Pattern
 
 ## Overview
-This project implements the Prototype Design Pattern for document management. The pattern allows for creating new objects by copying existing ones (prototypes) instead of creating them through constructors.
+This program implements the Prototype Design Pattern for document management. The pattern allows for creating new objects by copying existing ones (prototypes) instead of creating them through constructors.
 
-![Document Prototype UML Diagram](https://image.jpg)
+![alt text](image.png)
 
 ## Components
 
